@@ -3,6 +3,9 @@
 Minimal local scaffold for E-OS Core with runtime/event primitives,
 navigation adapters, patterns, and CI-ready tests.
 
+Engineering Operating System Core: clean kernel with SOL (ontological primitives),
+ISA (type system), EIR (engineering graph), and EEL (exchange language).
+
 ## Quick Start
 
 ```bash
@@ -20,4 +23,3 @@ pytest
 - `src/nav`: navigation adapters
 - `tests`: pytest test suite
 - `patterns`: YAML pattern definitions
-
