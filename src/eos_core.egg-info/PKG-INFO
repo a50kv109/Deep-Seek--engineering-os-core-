@@ -1,3 +1,16 @@
+Metadata-Version: 2.4
+Name: eos-core
+Version: 2.20.0
+Summary: E-OS Core V2.20 (TOOLKIT EDITION)
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Provides-Extra: dev
+Requires-Dist: pytest>=8.0; extra == "dev"
+Provides-Extra: pdf
+Provides-Extra: vision
+Dynamic: license-file
+
 # E-OS Core V2.20 (TOOLKIT EDITION)
 
 Minimal local scaffold for E-OS Core with runtime/event primitives,
